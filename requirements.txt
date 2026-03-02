@@ -1,0 +1,6 @@
+fastf1
+pandas
+xgboost
+scikit-learn
+matplotlib
+numpy
